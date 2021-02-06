@@ -26,3 +26,5 @@ In our third visualization, we generated a highlighted table of the sales based 
 
 ## Conclusion
 The map highlights that higher demand in San Antonio. The Tableau visualizations depict the trends per month, city, time bucket, and weekday. Our XGBoost algorithm can forecast sales accurately, saving. Combining our map, Tableau visualizations, and machine learning model, we created a powerful set of tools for Chevron stores.
+
+Try it out: https://rice-datathon.herokuapp.com/
