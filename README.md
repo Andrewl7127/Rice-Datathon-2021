@@ -1,4 +1,4 @@
-# RiceDatathon
+# Rice Datathon
 
 ## Abstract
 Every year, thousands of hot dogs go to waste due to the miscalculation of demand. We sought to help Chevron prevent this by extracting insights into consumer behavior and create a model that can accurately forecast sales. To do this, we utilized machine learning to create a cook plan for certain buckets of time, saving Chevron money and preventing food waste.
